@@ -1,0 +1,34 @@
+# Python cache and artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# VS Code/IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment and logs
+.env
+*.log
+
+# Project artifacts and data
+artifacts/
+train.csv
+data/
+dataset/
+# If you want to keep sample data tracked, remove these lines
+# Or be more specific like data/raw/ and allow data/processed/

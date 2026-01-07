@@ -1,0 +1,11 @@
+# Core scientific stack
+numpy
+pandas
+
+# Visualization and datasets
+matplotlib
+seaborn
+
+# Modeling
+scikit-learn>=1.2
+joblib
