@@ -1,4 +1,4 @@
-# Titanic Survival Prediction — Logistic Regression (Full DS Lifecycle)
+# Titanic Survival Prediction — Logistic Regression 
 
 This project implements a complete, reproducible data-science workflow for the Titanic survival problem using Logistic Regression in a scikit-learn pipeline. The notebook is organized by the DS lifecycle: setup, data loading, cleaning, EDA, feature engineering, modeling, evaluation, diagnostics, saving artifacts, and inference.
 
